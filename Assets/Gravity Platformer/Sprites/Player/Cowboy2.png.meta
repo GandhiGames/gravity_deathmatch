@@ -1,0 +1,341 @@
+fileFormatVersion: 2
+guid: 77d08789df6ec43539949a21fb2aa712
+timeCreated: 1442952502
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: idle_1
+    21300002: idle_2
+    21300004: idle_3
+    21300006: Idle_4
+    21300008: idle_5
+    21300010: shoot_1
+    21300012: shoot_2
+    21300014: shoot_3
+    21300016: gun_walk_1
+    21300018: gun_walk_2
+    21300020: gun_walk_3
+    21300022: gun_walk_4
+    21300024: gun_jump_1
+    21300026: jump_shoot_1
+    21300028: jump_shoot_2
+    21300030: jump_shoot_3
+    21300032: jump
+    21300034: Cowboy2_17
+    21300036: Cowboy2_18
+    21300038: Cowboy2_19
+    21300040: Cowboy2_20
+    21300042: Cowboy2_21
+    21300044: Cowboy2_22
+    21300046: Cowboy2_23
+    21300048: Cowboy2_24
+    21300050: Cowboy2_25
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: idle_1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 135
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idle_2
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 135
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idle_3
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 135
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Idle_4
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 135
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idle_5
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 135
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shoot_1
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 135
+        width: 32
+        height: 34
+      alignment: 9
+      pivot: {x: .402032375, y: .491218567}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shoot_2
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 135
+        width: 38
+        height: 34
+      alignment: 9
+      pivot: {x: .338929832, y: .486827612}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shoot_3
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 135
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gun_walk_1
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 90
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gun_walk_2
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 90
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gun_walk_3
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 90
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gun_walk_4
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 90
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gun_jump_1
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 90
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jump_shoot_1
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 90
+        width: 32
+        height: 35
+      alignment: 9
+      pivot: {x: .392702103, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jump_shoot_2
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 90
+        width: 40
+        height: 35
+      alignment: 9
+      pivot: {x: .328322589, y: .491469473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jump_shoot_3
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 90
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jump
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 45
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cowboy2_17
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 45
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cowboy2_18
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 45
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cowboy2_19
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 45
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cowboy2_20
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 45
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cowboy2_21
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 45
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cowboy2_22
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 45
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cowboy2_23
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 45
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cowboy2_24
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 0
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cowboy2_25
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 0
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
